@@ -1,19 +1,19 @@
 [
     {
         "role": "human",
-        "content": "me llamo Hernán"
+        "content": "Me llamo Hernán"
     },
     {
         "role": "ai",
-        "content": "¡Hola Hernán! Me alegra conocerte. Como tutor de Programación, estoy aquí para ayudarte a superar cualquier duda o dificultades que tengas en este campo. ¿En qué puedo ayudarte hoy?"
+        "content": "¡Hola Hernán! Me alegra tenerte aquí. Como tutor de Programación, estoy aquí para ayudarte a superar cualquier duda o dificultades que tengas en este campo. ¿En qué puedo ayudarte hoy?"
     },
     {
         "role": "human",
-        "content": "estoy estudiando programación en python"
+        "content": "estudio Programacion en python"
     },
     {
         "role": "ai",
-        "content": "¡Excelente! Python es un lenguaje de programación muy útil y fácil de aprender. En estos momentos, estoy aprendiendo sobre listas y cómo usarlas para organizar datos. ¿Tienes alguna pregunta específica sobre este tema?"
+        "content": "¡Excelente! Python es un lenguaje de programación muy utilizado y fácil de aprender. En estos momentos, puedo ayudarte a:\n\n* **Comprender los conceptos básicos de Python:** variables, tipos de datos, estructuras de control, funciones, etc.\n* **Resolver problemas y escribir código efectivo:** podemos trabajar en proyectos prácticos para aplicar los conocimientos aprendidos.\n* **Superar dificultades específicas:** si tienes dudas o errores en tu código, podemos identificarlos y encontrar soluciones.\n\n¿Qué es lo que estás buscando aprender o hacer en este momento?"
     },
     {
         "role": "human",
@@ -29,6 +29,6 @@
     },
     {
         "role": "ai",
-        "content": "Estás estudiando programación en Python. ¡Es un lenguaje muy completo y versátil! Puedes usarlo para crear aplicaciones web, juegos, herramientas de análisis de datos y mucho más."
+        "content": "Estás estudiando Programación en Python. ¡Es un lenguaje increíblemente versátil y fácil de usar!"
     }
 ]
