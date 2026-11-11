@@ -1,0 +1,34 @@
+[
+    {
+        "role": "human",
+        "content": "me llamo Hernán"
+    },
+    {
+        "role": "ai",
+        "content": "¡Hola Hernán! Me alegra conocerte. Como tutor de Programación, estoy aquí para ayudarte a superar cualquier duda o dificultades que tengas en este campo. ¿En qué puedo ayudarte hoy?"
+    },
+    {
+        "role": "human",
+        "content": "estoy estudiando programación en python"
+    },
+    {
+        "role": "ai",
+        "content": "¡Excelente! Python es un lenguaje de programación muy útil y fácil de aprender. En estos momentos, estoy aprendiendo sobre listas y cómo usarlas para organizar datos. ¿Tienes alguna pregunta específica sobre este tema?"
+    },
+    {
+        "role": "human",
+        "content": "como me llamo?"
+    },
+    {
+        "role": "ai",
+        "content": "Su nombre es Hernán. ¡Feliz de conocerte!"
+    },
+    {
+        "role": "human",
+        "content": "que estoy estudiando?"
+    },
+    {
+        "role": "ai",
+        "content": "Estás estudiando programación en Python. ¡Es un lenguaje muy completo y versátil! Puedes usarlo para crear aplicaciones web, juegos, herramientas de análisis de datos y mucho más."
+    }
+]

@@ -1,0 +1,50 @@
+• ¿Qué función tiene el mensaje de sistema?
+Define cómo debe responder el asistente.
+
+• ¿Qué cambia entre enviar una pregunta directamente y definir instrucciones de comportamiento?
+Sin instrucciones: respuesta libre. Con instrucciones: sigue reglas fijas.
+
+• ¿Por qué guardar mensajes del usuario?
+Para no perder el contexto.
+
+• ¿Por qué guardar también las respuestas?
+Para mantener orden en el diálogo.
+
+• ¿Qué sucede si solo se envía la pregunta actual?
+Se pierde el contexto anterior.
+
+• ¿En qué difieren memoria y persistencia?
+Memoria: temporal. Persistencia: permanente.
+
+• ¿Por qué convertir mensajes para almacenarlos en JSON?
+Es fácil de guardar y leer.
+
+• ¿Qué sucede si historial.json no existe?
+Se crea uno nuevo vacío.
+
+• ¿Qué componente se conecta con el modelo?
+El cliente/conexión del programa.
+
+• ¿Dónde se definen las instrucciones?
+En el mensaje de sistema.
+
+• ¿Dónde reside la memoria durante la ejecución?
+En la memoria RAM.
+
+• ¿Cómo se guarda y recupera JSON?
+Como archivo de texto estructurado.
+
+• ¿Qué diferencia existe entre modelo local y API Key?
+Local: en tu equipo, sin internet. API Key: en la nube, con internet.
+
+----------------------------------------
+
+1. Da una explicación del código que utilizaste en el ejercicios 1
+Se le asigna un rol académico al usuario en turno para que el asistente tome en cuenta su papel en la empresa
+
+2. Da una explicación del código que utilizaste en el ejercicios 2
+Para evitar modificar desde el código el nombre de un usuario, se le asigna una palabra clave para desde la terminal modificarlo, 
+y crear a un nuevo ususario
+
+3. Da una explicación del código que utilizaste en el ejercicios 3
+Con la palabra "Historial" ejecutada en la terminal, se muestra la conversación pasada, extraida desde el archivo JSON
